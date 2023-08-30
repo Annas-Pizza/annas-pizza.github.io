@@ -12,10 +12,16 @@ html{
 *::after {
   box-sizing: inherit;
 }
+.pizzas{
+    max-width:90vw;
+}
+.pizza > img{
+    max-width:100%;
+}
 
 .page_background {
 	height: 800vh;
-	width: 100vw;
+	width: 110vw;
 	position: fixed;
 	overflow: hidden;
     z-index:-1;
