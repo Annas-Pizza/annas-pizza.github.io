@@ -1,3 +1,8 @@
+:root {
+  --pizza-anim-delay: 1s;
+  --bg-red: rgb(40, 0, 0);
+  --bg-green: rgba(0, 58, 68); 
+}
 body {
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
@@ -12,11 +17,28 @@ html{
 *::after {
   box-sizing: inherit;
 }
+header{
+    margin: auto;
+    padding: 10px;
+}
 .pizzas{
+
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    margin-left:5vw;
     max-width:90vw;
 }
 .pizza > img{
+    opacity:0;
     max-width:100%;
+    position: relative;
+    animation-delay: var(--pizza-anim-delay);
+    animation-duration: 1.27s;
+    animation-fill-mode:forwards;
+    animation-timing-function: ease-out;
+    animation-name: slidein_down;
 }
 
 .page_background {
@@ -25,8 +47,23 @@ html{
 	position: fixed;
 	overflow: hidden;
     z-index:-1;
-	background: url("./bgb.png"), linear-gradient(120deg, rgb(40, 0, 0) 500px, rgba(0, 0, 0, 0.9) 1000px, rgb(0, 58, 68) 1750px);
+	background: url("./bgb.png"), linear-gradient(120deg, var(--bg-red) 500px, rgba(0, 0, 0, 0.9) 1000px, var(--bg-green) 1750px);
 }
 
 @media (max-width: 600px) {
+}
+
+
+
+@keyframes slidein_down{
+  from {
+      opacity:1;
+    top: -1000px;
+  }
+
+
+  to {
+      opacity:1;
+    top: 0px;
+  }
 }
