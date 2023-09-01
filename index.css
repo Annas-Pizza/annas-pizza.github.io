@@ -17,10 +17,17 @@ html{
 *::after {
   box-sizing: inherit;
 }
+
 header{
     margin: auto;
     padding: 10px;
+    /*width: 100vw;*/
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
+
 .pizzas{
 
     display:flex;
