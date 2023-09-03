@@ -1,16 +1,6 @@
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-        <title>Anna's Pizza - 608-825-2660</title>
-        <link rel="stylesheet" href="index.css">
-        <link rel="icon" type="image/x-icon" href="./favicon.ico">
-    </head>
-
-    <body>
-        <header>
 <svg
    width="100mm"
    height="50mm"
@@ -28,35 +18,35 @@
        id="g165"
        transform="matrix(12.807095,0,0,10.005346,-223.07538,-680.62461)">
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#f1f1f1;fill-opacity:1;stroke-width:0.213762"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.213762"
          d="m 26.497706,74.667787 v 0.489892 c -0.07398,-0.05685 -0.376085,-0.192518 -0.502597,-0.07954 -0.09321,0.08324 -0.03114,0.300931 0.01652,0.374532 0.06576,0.101558 0.262766,0.118356 0.352985,0.224735 0.121992,0.143844 0.205509,0.332617 0.221862,0.520515 0.01693,0.194545 -0.04439,0.445452 -0.133156,0.570508 -0.0881,0.124023 -0.25739,0.172818 -0.40552,0.186034 -0.175448,0.01565 -0.345237,-0.04637 -0.511725,-0.131834 L 25.261428,75.83939 c 0.08675,0.07855 0.438351,0.583323 0.519051,0.62363 0.175326,0.08532 0.244899,0.0227 0.290963,-0.06539 0.06698,-0.128091 0.01145,-0.348443 -0.163295,-0.401722 -0.280143,-0.08541 -0.446407,-0.449357 -0.47194,-0.741117 -0.01699,-0.19417 0.08757,-0.400725 0.223638,-0.54028 0.09261,-0.09498 0.231629,-0.149509 0.363746,-0.161453 0.161939,-0.01464 0.35601,0.061 0.474115,0.114729 z"
          id="path36" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#f1f1f1;fill-opacity:1;stroke-width:0.21481"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.21481"
          d="m 21.302788,74.55351 h 0.483098 l 0.318761,1.083523 0.0014,-1.083523 h 0.423038 v 2.315 h -0.486742 l -0.311119,-1.084598 -0.0028,1.084598 h -0.425633 z"
          id="path32" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;fill-opacity:1;stroke-width:0.2268"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;fill-opacity:1;stroke-width:0.2268"
          d="m 26.458941,79.000023 -0.389892,7.83e-4 -0.04354,0.31376 H 25.461426 L 26.026933,77 h 0.468985 l 0.565508,2.314587 h -0.556317 z m -0.315664,-0.576591 0.237624,2.99e-4 -0.116657,-0.844127 z"
          id="path40" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;fill-opacity:1;stroke-width:0.2268"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;fill-opacity:1;stroke-width:0.2268"
          d="m 24.84323,76.551306 -0.389892,7.83e-4 -0.04354,0.31376 h -0.564083 l 0.565507,-2.314566 h 0.468985 l 0.565508,2.314587 h -0.556317 z m -0.315664,-0.576591 0.237624,2.99e-4 -0.116657,-0.844127 z"
          id="path40-3" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;fill-opacity:1;stroke-width:0.2268"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;fill-opacity:1;stroke-width:0.2268"
          d="m 20.650863,76.552297 -0.389892,7.83e-4 -0.04354,0.31376 h -0.564083 l 0.324451,-2.318317 0.710041,0.0038 0.565508,2.314587 h -0.556317 z m -0.315664,-0.576591 0.237624,2.99e-4 -0.116657,-0.844127 z"
          id="path40-4" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;stroke-width:0.265"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;stroke-width:0.265"
          d="m 21.332554,77 h 0.626345 v 2.314587 h -0.624907 z"
          id="path37" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;fill-opacity:1;stroke-width:0.255555"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;fill-opacity:1;stroke-width:0.255555"
          d="m 19.617585,76.991726 0.874029,0.0082 c 0.502614,0.0048 0.735963,0.256483 0.735963,0.731285 0,0.464239 -0.218321,0.775136 -0.735963,0.775136 h -0.329837 v 0.800333 l -0.908523,-0.01739 z m 0.544192,0.439314 v 0.644284 c 0.275982,0 0.391251,0.06989 0.394051,-0.323997 0.0029,-0.401574 -0.102168,-0.32193 -0.394051,-0.320287 z"
          id="text31" />
       <path
-         style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#f1f1f1;fill-opacity:1;stroke-width:0.21481"
+         style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.21481"
          d="m 22.585416,74.553022 h 0.483098 l 0.318761,1.083523 0.0014,-1.083523 h 0.423038 v 2.315 h -0.486742 l -0.311119,-1.084598 -0.0028,1.084598 h -0.425633 z"
          id="path32-9" />
       <g
@@ -64,17 +54,17 @@
         <g
            id="g42"
            transform="matrix(0.87967527,0,0,1,1.7257623,-0.595453)"
-           style="fill:#f1f1f1;fill-opacity:1">
+           style="fill:#000000;fill-opacity:1">
           <g
              id="g41"
-             style="fill:#f1f1f1;fill-opacity:1">
+             style="fill:#000000;fill-opacity:1">
             <path
-               style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;fill-opacity:1;stroke-width:0.265"
+               style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;fill-opacity:1;stroke-width:0.265"
                d="m 23.221676,77.595453 h 1.750281 l -0.608951,1.60135 0.644967,0.0077 -0.0035,0.705586 H 23.18912 l 0.946135,-1.67309 -0.920807,0.0087 z"
                id="path38" />
           </g>
           <path
-             style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
              d="m 24.601418,78.229213 -1.213221,1.548873 1.454019,-0.04721 -0.0031,-0.396245 -0.689137,0.0074 z"
              id="path41" />
         </g>
@@ -89,17 +79,17 @@
         <g
            id="g42-1"
            transform="matrix(0.87967527,0,0,1,1.7257623,-0.595453)"
-           style="fill:#f1f1f1;fill-opacity:1">
+           style="fill:#000000;fill-opacity:1">
           <g
              id="g41-8"
-             style="fill:#f1f1f1;fill-opacity:1">
+             style="fill:#000000;fill-opacity:1">
             <path
-               style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#f1f1f1;fill-opacity:1;stroke-width:0.265"
+               style="font-weight:bold;font-stretch:semi-condensed;font-size:3.175px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';fill:#000000;fill-opacity:1;stroke-width:0.265"
                d="m 23.221676,77.595453 h 1.750281 l -0.608951,1.60135 0.644967,0.0077 -0.0035,0.705586 H 23.18912 l 0.946135,-1.67309 -0.920807,0.0087 z"
                id="path38-8" />
           </g>
           <path
-             style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
              d="m 24.601418,78.229213 -1.213221,1.548873 1.454019,-0.04721 -0.0031,-0.396245 -0.689137,0.0074 z"
              id="path41-7" />
         </g>
@@ -114,13 +104,13 @@
         <g
            id="g43"
            transform="matrix(0.66874563,0,0,0.64906398,8.1157558,27.467567)"
-           style="fill:#f1f1f1;fill-opacity:1">
+           style="fill:#000000;fill-opacity:1">
           <path
-             style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999"
+             style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.264999"
              d="m 25.843527,71.629258 -0.603337,0.821028 -0.559538,-0.826291 c 0.400833,-0.264552 0.789086,-0.253159 1.162875,0.0053 z"
              id="path35" />
           <path
-             style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#f1f1f1;fill-opacity:1;stroke-width:0.227697"
+             style="font-weight:bold;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.227697"
              d="m 25.78128,71.643443 -0.51834,0.705549 0.02293,-0.879584 c 0.237489,0.01218 0.437144,0.136083 0.495404,0.174112 z"
              id="path35-9" />
         </g>
@@ -132,27 +122,3 @@
     </g>
   </g>
 </svg>
-        </header>
-        <div class="page_background"> </div>
-
-        <div class="pizzas">
-            <div class="pizza" id="works" style="--pizza-anim-delay:1s;">
-            <img src="./img/works.png" alt="works">
-        </div>
-
-        <div class="pizza" id="meat" style="--pizza-anim-delay:.75s;">
-            <img src="./img/meat.png" alt="meat">
-        </div>
-
-        <div class="pizza" id="hawaiian" style="--pizza-anim-delay:.5s;">
-            <img src="./img/hawaiian.png" alt="hawaiian"> 
-        </div>
-
-        <div class="pizza" id="veggie" style="--pizza-anim-delay:.25s;">
-            <img src="./img/veggie.png" alt="veggie"> 
-        </div>
-        </div>
-    </body>
-
-
-</html>
