@@ -28,7 +28,11 @@ header{
     position: sticky;
     top: 0;
 }
-
+#logo-svg {
+    animation-name: fadeInFromNone;
+    animation-duration: 1900ms;
+    animation-fill-mode: forwards;
+}
 .pizzas{
 
     display:flex;
@@ -43,7 +47,7 @@ header{
     max-width:100%;
     position: relative;
     animation-delay: var(--pizza-anim-delay);
-    animation-duration: 1.27s;
+    animation-duration: 1.4s;
     animation-fill-mode:forwards;
     animation-timing-function: ease-out;
     animation-name: slidein_down;
@@ -76,3 +80,16 @@ header{
     top: 0px;
   }
 }
+@-webkit-keyframes fadeInFromNone {
+    0% {
+        opacity: 0;
+    }
+    66% {
+        opacity: .25;
+    90% {
+        opacity: .6;
+
+    100% {
+        opacity: 1;
+    }
+
