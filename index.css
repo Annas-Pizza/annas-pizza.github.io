@@ -54,10 +54,10 @@ header{
 }
 
 .page_background {
+    top: calc(100vh - 2000px);
 	height: 800vh;
 	width: 110vw;
 	position: fixed;
-    top:-1;
 	overflow: hidden;
     z-index:-1;
 	background: url("./bgb.png"), linear-gradient(120deg, var(--bg-red) 500px, rgba(0, 0, 0, 0.9) 1000px, var(--bg-green) 1750px);
