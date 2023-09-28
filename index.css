@@ -1,7 +1,7 @@
 :root {
   --pizza-anim-delay: 1s;
   --bg-red: rgb(40, 0, 0);
-  --bg-green: rgba(0, 58, 68); 
+  --bg-green: rgba(0, 58, 68);
 }
 body {
 	margin: 0 0 0 0;
@@ -28,10 +28,41 @@ header{
     position: sticky;
     top: 0;
 }
+#es{
+ vertical-align: middle;
+ margin: 0 auto;
+padding-top: 20px;
+}
+.button {
+    font-family: 'Helvetica';
+    border-radius: 33% 10%;
+    background-color: #ffffff;
+    border: dashed green;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+header > #tel{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 10.5vw;
+    padding-top: 20px;
+}
+header > div > a{
+    color: white;
+}
 #logo-svg {
     animation-name: fadeInFromNone;
     animation-duration: 1900ms;
     animation-fill-mode: forwards;
+    margin: auto;
 }
 .pizzas{
 
