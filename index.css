@@ -28,35 +28,28 @@ header{
     position: sticky;
     top: 0;
 }
-#es{
- vertical-align: middle;
+#es, #tel{
  margin: 0 auto;
 padding-top: 20px;
+font-size: 30px;
 }
 .button {
-    font-family: 'Helvetica';
-    border-radius: 33% 10%;
+    font-family: 'Bowlby One SC', cursive;
+    font-weight: bolder;
+    border-radius: 5px;
     background-color: #ffffff;
-    border: dashed green;
-    color: rgb(0, 0, 0);
+    border: 1px solid #aa0000;
+    color: #000000;
     padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
     display: inline-block;
-    font-size: 20px;
-    margin: 4px 2px;
     cursor: pointer;
     vertical-align: middle;
-  }
-header > #tel{
-    margin: 0 auto;
     text-align: center;
-    font-family: 'Bowlby One SC', cursive;
-    font-size: 10.5vw;
-    padding-top: 20px;
-}
+    text-decoration: none;
+  }
+
 header > div > a{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 #logo-svg {
     animation-name: fadeInFromNone;
@@ -94,7 +87,12 @@ header > div > a{
 	background: url("./bgb.png"), linear-gradient(120deg, var(--bg-red) 500px, rgba(0, 0, 0, 0.9) 1000px, var(--bg-green) 1750px);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+    .button{
+        position:relative;
+        width:100vw;
+        margin: 0;
+    }
 }
 
 
@@ -114,13 +112,12 @@ header > div > a{
 @-webkit-keyframes fadeInFromNone {
     0% {
         opacity: 0;
-    }
-    66% {
+    }66% {
         opacity: .25;
-    90% {
+    }90% {
         opacity: .6;
-
-    100% {
+    }100% {
         opacity: 1;
     }
 
+}
