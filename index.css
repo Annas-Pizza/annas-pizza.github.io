@@ -38,12 +38,13 @@ header{
 }
 
 .button {
-    font-family: 'Bowlby One SC', cursive;
+    max-width: 85vw;
     font-weight: bolder;
     border-radius: 10px;
     background-color: #300505;
     border: 5px solid #000000;
     color: #ffffff;
+    outline: 1px solid white;
     padding: 15px 32px;
     display: inline-block;
     cursor: pointer;
